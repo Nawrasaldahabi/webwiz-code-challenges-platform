@@ -31,6 +31,4 @@ A full-stack web platform that allows users to solve frontend coding challenges 
 - 🗓️ Duration: March 2025 – June 2025
 - 🏫 Graduation Project – Al-Hussein Bin Talal University
 
-## 📸 Screenshots (coming soon...)
-
 📫 **Contact:** nawras.aldahabi.dev@gmail.com
