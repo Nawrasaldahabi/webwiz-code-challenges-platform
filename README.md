@@ -1,6 +1,6 @@
 # WebWiz – Code Challenges Platform 💻✨
 
-![WebWiz Home Page dark mode](https://imgur.com/a/XCribVm.png)
+![WebWiz Home Page dark mode]([https://imgur.com/a/XCribVm.png](https://i.imgur.com/gqNBhy8.png))
 
 # About WebWiz
 A full-stack web platform that allows users to solve frontend coding challenges through a live code editor with instant AI-powered feedback.
