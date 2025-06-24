@@ -1,0 +1,7 @@
+.vs/
+**/.vs
+**/bin
+**/obj
+BackEnd/WhateverEnd/wwwroot
+.jpg
+.png
