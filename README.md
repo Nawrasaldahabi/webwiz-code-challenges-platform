@@ -1,9 +1,10 @@
 # WebWiz – Code Challenges Platform 💻✨
 
+# About WebWiz
 A full-stack web platform that allows users to solve frontend coding challenges through a live code editor with instant AI-powered feedback.
 
 ## 🚀 Features
-- 🧠 AI feedback on submitted code (HTML, CSS, JS)
+- 🧠 AI feedback on submitted code (HTML, CSS, JS, JSX)
 - 📝 Real-time live code editor
 - 🗺️ Two task progression maps:
   - **Frontend basics map:** tasks in HTML, CSS, and JS, ordered from easy to hard.
@@ -29,6 +30,5 @@ A full-stack web platform that allows users to solve frontend coding challenges 
 - 🏫 Graduation Project – Al-Hussein Bin Talal University
 
 ## 📸 Screenshots (coming soon...)
-_Add some UI screenshots or a short demo video here._
 
 📫 **Contact:** nawras.aldahabi.dev@gmail.com
